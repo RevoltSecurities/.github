@@ -1,11 +1,6 @@
 
 # RevoltSecurities
 
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/828aed4a-ee5f-459c-9a0c-bcc8868e3488" alt="RevoltSecurities Banner" width="45%" height="auto">
-  <br>
-</h1>
-
 **RevoltSecurities** is a dedicated group of individual security researchers committed to advancing cybersecurity through innovative tool development, research, and collaboration.
 
 Our mission is to empower security researchers, ethical hackers, bug bounty hunters, and developers by providing cutting-edge, reliable, and user-friendly open-source tools that assist in uncovering vulnerabilities, performing reconnaissance, and automating security assessments.
